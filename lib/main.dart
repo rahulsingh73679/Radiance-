@@ -14,7 +14,7 @@ import 'package:webview_flutter/webview_flutter.dart';
 // flutter build apk --build-name=1.0.3 --build-number=3
   
 //  flutter pub get
-//  flutter pub run flutter_launcher_icons:main
+//  flutter pub run flutter_launcher_icons:main       just one
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
